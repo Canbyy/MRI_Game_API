@@ -1,86 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\",
+  "WorkspaceRootPath": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{652596B1-5B12-4133-8A97-C16B745B1926}|MriGame.Api.Tests\\MriGame.Api.Tests.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api.tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652596B1-5B12-4133-8A97-C16B745B1926}|MriGame.Api.Tests\\MriGame.Api.Tests.csproj|solutionrelative:mrigame.api.tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{652596B1-5B12-4133-8A97-C16B745B1926}|MriGame.Api.Tests\\MriGame.Api.Tests.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api.tests\\progresscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652596B1-5B12-4133-8A97-C16B745B1926}|MriGame.Api.Tests\\MriGame.Api.Tests.csproj|solutionrelative:mrigame.api.tests\\progresscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\mrigame.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\mrigame.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{652596B1-5B12-4133-8A97-C16B745B1926}|MriGame.Api.Tests\\MriGame.Api.Tests.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api.tests\\childrencontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652596B1-5B12-4133-8A97-C16B745B1926}|MriGame.Api.Tests\\MriGame.Api.Tests.csproj|solutionrelative:mrigame.api.tests\\childrencontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\controllers\\progresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\controllers\\progresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\mrigame.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\mrigame.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\controllers\\childrencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\controllers\\childrencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\controllers\\progresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\controllers\\progresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Migrations\\20260404214757_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MriGame.Api\\Migrations\\20260404214757_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\controllers\\childrencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\controllers\\childrencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\dtos\\createchildrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\dtos\\createchildrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\dtos\\registerparentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\dtos\\registerparentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\dtos\\updateprogressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\dtos\\updateprogressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\dtos\\createchildrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\dtos\\createchildrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\models\\childprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\models\\childprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\migrations\\20260404214757_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\migrations\\20260404214757_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\models\\gameprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\models\\gameprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\dtos\\registerparentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\dtos\\registerparentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\dtos\\updateprogressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\dtos\\updateprogressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\models\\parentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\models\\parentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\models\\childprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\models\\childprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\models\\gameprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\models\\gameprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\reza\\downloads\\worldbuilderapi\\mrigame.api\\mrigame.api\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AC5485-B05A-439F-98FB-120FB253F3F7}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\models\\parentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\models\\parentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|c:\\users\\cbgum\\onedrive\\documenten\\github\\mri_game_api\\mrigame.api\\mrigame.api\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE4E4A3-A309-2076-75B8-3179C20CC064}|MriGame.Api\\MriGame.Api.csproj|solutionrelative:mrigame.api\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,32 +102,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgressControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api.Tests\\ProgressControllerTests.cs",
+              "RelativeDocumentMoniker": "MriGame.Api.Tests\\ProgressControllerTests.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api.Tests\\ProgressControllerTests.cs",
+              "RelativeToolTip": "MriGame.Api.Tests\\ProgressControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:24:12.045Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
-              "Name": "ST:1475231628:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildrenControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api.Tests\\ChildrenControllerTests.cs",
+              "RelativeDocumentMoniker": "MriGame.Api.Tests\\ChildrenControllerTests.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api.Tests\\ChildrenControllerTests.cs",
+              "RelativeToolTip": "MriGame.Api.Tests\\ChildrenControllerTests.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAowJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:23:56.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api.Tests\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "MriGame.Api.Tests\\AuthControllerTests.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api.Tests\\AuthControllerTests.cs",
+              "RelativeToolTip": "MriGame.Api.Tests\\AuthControllerTests.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAowLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:23:33.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MriGame.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Properties\\launchSettings.json",
               "RelativeToolTip": "MriGame.Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-05T23:03:57.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MriGame.Api",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\MriGame.Api.csproj",
+              "DocumentIndex": 4,
+              "Title": "MriGame.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\MriGame.Api.csproj",
               "RelativeDocumentMoniker": "MriGame.Api\\MriGame.Api.csproj",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\MriGame.Api.csproj",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\MriGame.Api.csproj",
               "RelativeToolTip": "MriGame.Api\\MriGame.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -124,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AuthResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\DTOs\\AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\DTOs\\AuthResponse.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\DTOs\\AuthResponse.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\DTOs\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\DTOs\\AuthResponse.cs",
               "RelativeToolTip": "MriGame.Api\\DTOs\\AuthResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,24 +192,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Data\\AppDbContext.cs",
               "RelativeToolTip": "MriGame.Api\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowCMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-04T21:30:16.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ProgressController.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Controllers\\ProgressController.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Controllers\\ProgressController.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Controllers\\ProgressController.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Controllers\\ProgressController.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Controllers\\ProgressController.cs",
               "RelativeToolTip": "MriGame.Api\\Controllers\\ProgressController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwE4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,11 +218,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ChildrenController.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Controllers\\ChildrenController.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Controllers\\ChildrenController.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Controllers\\ChildrenController.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Controllers\\ChildrenController.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Controllers\\ChildrenController.cs",
               "RelativeToolTip": "MriGame.Api\\Controllers\\ChildrenController.cs",
               "ViewState": "AgIAAG4AAAAAAAAAAAAqwIEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,9 +233,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Controllers\\AuthController.cs",
               "RelativeToolTip": "MriGame.Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAiwGkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,11 +244,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Program.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Program.cs",
               "RelativeToolTip": "MriGame.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -204,9 +259,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\DTOs\\LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\DTOs\\LoginRequest.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\DTOs\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\DTOs\\LoginRequest.cs",
               "RelativeToolTip": "MriGame.Api\\DTOs\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,11 +270,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\appsettings.json",
               "RelativeDocumentMoniker": "MriGame.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\appsettings.json",
               "RelativeToolTip": "MriGame.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -228,11 +283,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CreateChildRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\DTOs\\CreateChildRequest.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\DTOs\\CreateChildRequest.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\DTOs\\CreateChildRequest.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\DTOs\\CreateChildRequest.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\DTOs\\CreateChildRequest.cs",
               "RelativeToolTip": "MriGame.Api\\DTOs\\CreateChildRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -241,11 +296,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "20260404214757_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Migrations\\20260404214757_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Migrations\\20260404214757_InitialCreate.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Migrations\\20260404214757_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Migrations\\20260404214757_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Migrations\\20260404214757_InitialCreate.cs",
               "RelativeToolTip": "MriGame.Api\\Migrations\\20260404214757_InitialCreate.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,11 +309,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "RegisterParentRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\DTOs\\RegisterParentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\DTOs\\RegisterParentRequest.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\DTOs\\RegisterParentRequest.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\DTOs\\RegisterParentRequest.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\DTOs\\RegisterParentRequest.cs",
               "RelativeToolTip": "MriGame.Api\\DTOs\\RegisterParentRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +322,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "UpdateProgressRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\DTOs\\UpdateProgressRequest.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\DTOs\\UpdateProgressRequest.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\DTOs\\UpdateProgressRequest.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\DTOs\\UpdateProgressRequest.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\DTOs\\UpdateProgressRequest.cs",
               "RelativeToolTip": "MriGame.Api\\DTOs\\UpdateProgressRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,11 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ChildProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Models\\ChildProfile.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Models\\ChildProfile.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Models\\ChildProfile.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Models\\ChildProfile.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Models\\ChildProfile.cs",
               "RelativeToolTip": "MriGame.Api\\Models\\ChildProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,11 +348,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "GameProgress.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Models\\GameProgress.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Models\\GameProgress.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Models\\GameProgress.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Models\\GameProgress.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Models\\GameProgress.cs",
               "RelativeToolTip": "MriGame.Api\\Models\\GameProgress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -306,11 +361,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Models\\Gender.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Models\\Gender.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Models\\Gender.cs",
               "RelativeToolTip": "MriGame.Api\\Models\\Gender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +374,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ParentUser.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Models\\ParentUser.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Models\\ParentUser.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Models\\ParentUser.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Models\\ParentUser.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Models\\ParentUser.cs",
               "RelativeToolTip": "MriGame.Api\\Models\\ParentUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -332,11 +387,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Services\\JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Services\\JwtService.cs",
               "RelativeToolTip": "MriGame.Api\\Services\\JwtService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAiwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -345,11 +400,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "PasswordService.cs",
-              "DocumentMoniker": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Services\\PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Services\\PasswordService.cs",
               "RelativeDocumentMoniker": "MriGame.Api\\Services\\PasswordService.cs",
-              "ToolTip": "C:\\Users\\Reza\\Downloads\\WorldBuilderApi\\MriGame.Api\\MriGame.Api\\Services\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\cbgum\\OneDrive\\Documenten\\GitHub\\MRI_Game_API\\MriGame.Api\\MriGame.Api\\Services\\PasswordService.cs",
               "RelativeToolTip": "MriGame.Api\\Services\\PasswordService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

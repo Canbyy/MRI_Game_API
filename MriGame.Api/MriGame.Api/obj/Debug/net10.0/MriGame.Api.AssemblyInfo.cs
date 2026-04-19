@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MriGame.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ead748d0ed0b90af5bf048d441616cb0972c119e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MriGame.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MriGame.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
