@@ -21,12 +21,18 @@ jobs:
       - name: Restore dependencies
         run: dotnet restore MriGame.Api/MriGame.Api/MriGame.Api.csproj
 
+      - name: Restore test dependencies
+        run: dotnet restore MriGame.Api/MriGame.Api.Tests/MriGame.Api.Tests.csproj
+
+      - name: Test
+        run: dotnet test MriGame.Api/MriGame.Api.Tests/MriGame.Api.Tests.csproj --no-restore
+
       - name: Build
         run: dotnet build MriGame.Api/MriGame.Api/MriGame.Api.csproj --configuration Release --no-restore
 
       - name: Publish
         run: dotnet publish MriGame.Api/MriGame.Api/MriGame.Api.csproj --configuration Release --output ./publish
-        
+
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
         with:
